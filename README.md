@@ -3,7 +3,7 @@ I’m currently working on code with Harry job Rady data science course
 I’m currently coloration on AI automation and building AI work flow.
 
 🌐 Socials:
-Bluesky [Discord](https://discord.gg/Add me as a friend on Discord! Invite expires in 1 week: https://discord.gg/drMZgWGs) Instagram [LinkedIn](https://linkedin.com/in/Het Patel ) email
+Bluesky [Discord](https://discord.gg/Add me as a friend on Discord! Invite expires in 1 week: https://discord.gg/drMZgWGs) Instagram [LinkedIn](www.linkedin.com/in/het-patel-1a6324215 ) email
 
 💻 Tech Stack:
 C C++ CSS3 Java HTML5 JavaScript Octave Python TypeScript Google Cloud .Net Anaconda Angular.js Angular Django jQuery NPM React MySQL MongoDB Adobe Adobe Acrobat Reader Adobe Lightroom Adobe Photoshop Adobe Premiere Pro Blender Figma Canva Matplotlib NumPy Pandas Selenium Uber nVIDIA Epic Games AMD Cisco Home Assistant Riot Games Steam Xbox Unreal Engine
