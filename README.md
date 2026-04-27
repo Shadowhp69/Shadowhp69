@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on code for Harry's job Ready data science course.<br>I’m currently working on AI automation and building an AI workflow.<br>Looking forward to building connections and new projects.
+I’m currently working on code for Harry's job Ready data science course.<br>I’m currently working on AI automation and building an AI workflow.<br>Looking forward to building connections and new projects.<br>Working Angular strongly.
 
 
 ## 🌐 Socials:
